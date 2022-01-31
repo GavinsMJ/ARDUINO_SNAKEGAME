@@ -24,8 +24,8 @@
   int RESETState = HIGH;              // the current RESET state
   int buttonState = HIGH;             // the current Reading from the input pin
   
-  unsigned long lastDebounceTime = 0;  // the last time the output pin was toggled
-  unsigned long debounceDelay = 100;    // the debounce time; increase if the output flickers
+  unsigned long lastDebounceTime = 0;  
+  unsigned long debounceDelay = 100;    // the debounce time in ms
 
 void send_info(){
   // reads the JOYSTICK Inputs 
