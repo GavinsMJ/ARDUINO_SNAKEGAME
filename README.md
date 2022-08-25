@@ -8,4 +8,4 @@ Upload the code to your controller
 RUN the processing sketch
 
 Have fun
-Give me a couple of stars if you love the game
+Give me a star if you love the game
